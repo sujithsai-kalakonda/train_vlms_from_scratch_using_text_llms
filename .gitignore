@@ -1,0 +1,19 @@
+# Python-generated files
+.DS_Store
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+dataset/*
+dataset.tar.gz
+models/*
+vision/*
+
+process_documentation.md
+results_images/*
+just_to_remember_things.txt
